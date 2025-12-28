@@ -1,3 +1,3 @@
-# store
+# Auto Store Rebuild
 
-## set up bot token and channel id at .env & set mongodb server in json/config.json
+im currently too lazy make a feature, maybe next day i will try to rebuilt
